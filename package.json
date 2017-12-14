@@ -1,0 +1,25 @@
+{
+  "name": "hello-ushio",
+  "version": "1.0.0",
+  "description": "NPM experiment project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello-ushio": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsuyoshiUshio/hello-ushio.git"
+  },
+  "keywords": [
+    "experiment"
+  ],
+  "author": "Tsuyoshi Ushio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TsuyoshiUshio/hello-ushio/issues"
+  },
+  "homepage": "https://github.com/TsuyoshiUshio/hello-ushio#readme"
+}
